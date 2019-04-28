@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\bin\Debug\zKutuphane.exe.config
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\bin\Debug\zKutuphane.exe
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\bin\Debug\zKutuphane.pdb
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.Login.resources
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.MainForm.resources
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.exe
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.pdb
+c:\users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.NewBook.resources
+C:\Users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.Books.resources
+C:\Users\user\documents\visual studio 2017\Projects\zKutuphane\zKutuphane\obj\Debug\zKutuphane.BookList.resources
